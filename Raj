@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rajkumar D - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      line-height: 1.6;
+      background: #f4f4f4;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .contact a {
+      text-decoration: none;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Rajkumar D</h1>
+
+    <div class="section contact">
+      <p><strong>Mobile:</strong> 9566897589</p>
+      <p><strong>Email:</strong> <a href="mailto:rajkdharma9105@gmail.com">rajkdharma9105@gmail.com</a></p>
+      <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/raj-kumar-2a8469283" target="_blank">linkedin.com/in/raj-kumar-2a8469283</a></p>
+    </div>
+
+    <div class="section">
+      <h2>Career Objective</h2>
+      <p>Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learning.</p>
+    </div>
+
+    <div class="section">
+      <h2>Academic Credentials</h2>
+      <ul>
+        <li><strong>B.Sc (Information Technology)</strong>, Karpagam Academy of Higher Education – 2026 – 6.21 CGPA</li>
+        <li><strong>HSC</strong>, Govt. Higher Secondary School – 2023 – 55%</li>
+        <li><strong>SSLC</strong>, Govt. Higher Secondary School – 2021 – Pass</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Internship</h2>
+      <p>Interned at Nxtlogic Software Solutions as a PHP Full Stack Web Developer from September 3rd, 2024 to October 3rd, 2024.</p>
+    </div>
+
+    <div class="section">
+      <h2>Experience</h2>
+      <p>Workshop on Power BI at KAHE — enhanced analytical thinking and data presentation skills.</p>
+    </div>
+
+    <div class="section">
+      <h2>Certificates</h2>
+      <ul>
+        <li>Secured Medal in Athletics</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Technical Skills</h2>
+      <ul>
+        <li>Full Stack Development</li>
+        <li>C Programming</li>
+        <li>Software Development</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Personal Skills</h2>
+      <ul>
+        <li>Hardworking</li>
+        <li>Self Motivated</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Area of Interest</h2>
+      <p>Software Development</p>
+    </div>
+
+    <div class="section">
+      <h2>Hobbies</h2>
+      <p>Playing Cricket</p>
+    </div>
+
+    <div class="section">
+      <h2>Personal Information</h2>
+      <ul>
+        <li><strong>Address:</strong> 1/52 Tank Street, Arisipalayam, 641002</li>
+        <li><strong>Languages Known:</strong> Tamil, English, Telugu</li>
+        <li><strong>Nationality:</strong> Indian</li>
+        <li><strong>Father's Name:</strong> Dharmaraj K</li>
+        <li><strong>Date of Birth:</strong> 09.10.2005</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Declaration</h2>
+      <p>I hereby declare that all the above information is correct and accurate.</p>
+      <p><strong>Date:</strong> __________</p>
+      <p><strong>Place:</strong> __________</p>
+      <p><strong>Signature:</strong> Rajkumar D</p>
+    </div>
+  </div>
+</body>
+</html>
